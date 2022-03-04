@@ -156,7 +156,7 @@
         {
             "id": 10,
             "buyer_name": "Clementina DuBuque",
-            "email": "Rey.Padberg@karina.biz",
+            "buyer_email": "Rey.Padberg@karina.biz",
             "buyer_address": {
                 "street": "Kattie Turnpike",
                 "suite": "Suite 198",
