@@ -388,7 +388,7 @@
   {
       "id": 10,
       "buyer_name": "Clementina DuBuque",
-      "email": "Rey.Padberg@karina.biz",
+      "buyer_email": "Rey.Padberg@karina.biz",
       "buyer_address": {
           "street": "Kattie Turnpike",
           "suite": "Suite 198",
@@ -524,7 +524,7 @@
   {
       "id": 10,
       "seller_name": "Clementina DuBuque",
-      "seller": "Rey.Padberg@karina.biz",
+      "seller_email": "Rey.Padberg@karina.biz",
       "seller_address": {
           "street": "Dayna Park",
           "suite": "Suite 449",
